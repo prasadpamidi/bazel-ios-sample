@@ -1,0 +1,3 @@
+bazel-*
+Brewfile.lock.json
+MODULE.bazel.lock
