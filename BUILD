@@ -20,6 +20,7 @@ objc_library(
         "ObjcLib/Classes",
     ],
     module_name = "ObjcLib",
+    enable_modules = True,
     visibility = ["//visibility:public"],
 )
 
